@@ -13,6 +13,6 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-d-486888167/)](https://www.linkedin.com/in/guilherme-d-486888167/)
 
-[![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/gui-marques)
+[![GitHub Followers](https://img.shields.io/github/followers/gui-marques?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/gui-marques)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/guilherme-d-486888167/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)]()
