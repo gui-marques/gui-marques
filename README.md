@@ -10,7 +10,9 @@ Would you like to find me?
 
 ![Guilherme Silva's github stats](https://github-readme-stats.vercel.app/api?username=gui-marques&show_icons=true&theme=radical)
 
-[![Blog Badge](https://img.shields.io/badge/Blog-guilhermemarques)](https://)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://youtube.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-d-486888167/)](https://www.linkedin.com/in/guilherme-d-486888167/)
+
+[![GitHub Followers](https://img.shields.io/github/followers/OtacilioN?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/gui-marques)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/guilherme-d-486888167/)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)]()
