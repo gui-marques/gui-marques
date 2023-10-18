@@ -10,6 +10,7 @@ In my free time I like to play (and watch) football (⚽️), watch films (🎞�
 🌱 I'm learning about React JS, React-Native and JavaScrip.
 🎓👨‍🎓 Graduated in Information Technology Management.
 📌 I live in Guaratuba - PR
+
 Would you like to meet me?
 
 
