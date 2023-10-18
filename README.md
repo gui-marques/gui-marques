@@ -2,16 +2,16 @@
 
 🚀 About me
 
-My name is Guilherme Silva from Brazil (🇧🇷). I've been working as Front-End Developer since 2013 and currently I'm developer at [Evolution Informatica](https://evolutioninformatica.com.br). I'm passionate about open source projects, so I've created some projects as [SevenFlix](https://github.com/slayonthunder/sevenflix/tree/master/seven-flix) and I've always loved to produce a lot of content during my career.
+My name is Guilherme Silva from Brazil (🇧🇷). I have worked as a Front-End Developer since 2013 and am currently a Systems Analyst. I'm passionate about open source projects, that's why I created some projects like [SevenFlix](https://github.com/slayonthunder/sevenflix/tree/master/seven-flix) and I've always loved producing a lot of content during my career.
 
+In my free time I like to play (and watch) football (⚽️), watch films (🎞️) and series (📺), read books (📚), listen to music (🎵).
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
-- 🔭 I’m currently working as a front end developer [@Evolution](https://evolutioninformatica.com.br/)
-- 🌱 I’m learning about React JS, React-Native and JavaScrip.
-- 🎓👨‍🎓 Graduated in Information technology management.
-- 📌 I live in Guaratuba - PR
+🔭 I am currently working as a Protheus Systems Analyst at [ATI Brasil](https://www.atibrasil.com.br/).
+🌱 I'm learning about React JS, React-Native and JavaScrip.
+🎓👨‍🎓 Graduated in Information Technology Management.
+📌 I live in Guaratuba - PR
+Would you like to meet me?
 
-Would you like to find me?
 
 
 ![Guilherme Silva's github stats](https://github-readme-stats.vercel.app/api?username=gui-marques&show_icons=true&theme=radical)
